@@ -36,7 +36,7 @@ createCard('22/11', 'terça-feira',
     createGame('argentina','07:00','saudiarabia') +
     createGame('denmark','10:00','tunisia') +
     createGame('mexico', '10:00', 'poland') +
-    createGame('france','16:00','Australia')
+    createGame('france','16:00','australia')
     ) +
 createCard('23/11', 'quarta-feira',
     createGame('morroco','07:00','croatia') +
